@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Sio{% endblock %}
+
+{% block body %}
+
+<h1>Fuuuuuuuusion !</h1>
+
+<ul>
+
+{% for message in app.flashes('success') %}
+            <div class="alert alert-success">
+                {{ message }}
+            </div>
+ {% endfor %}
+<p> </p>
+   <a href="crash"  >Séquenciel (actuellemnt le crash, a changer )</a>
+   <p> </p>
+    <a href="lucky/number">Croisé actuellement le luckynumber (a changer)</a>
+    <p> </p>
+    <a href="fail">celui d'ethan avec lequel on essaye de fusioner</a>
+
+    
+
+</ul>
+
+
+
+
+{% endblock %}
