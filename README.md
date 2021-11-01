@@ -12,6 +12,10 @@ https://user-images.githubusercontent.com/78152375/139742904-cd568636-8a9c-4555-
 Le code ci-dessus permet de créer le fichier contenant toutes les données récupérées sur les deux fichiers csv.
 
 
+Enoncé de la mission : https://ocapuozzo.github.io/mission-etl-csv/#livraison
+
+Projet hébergé : https://github.com/Rayquane/Projet-Vetux-Line
+
 
 Personnes du groupe Smash :
 
