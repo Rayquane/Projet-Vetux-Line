@@ -10,7 +10,10 @@ Le code ci-dessus permet de lire les fichiers csv.
 
 
 
-Personnes du groupe : 
+Personnes du groupe :
+
 DE SOUSA Océane
+
 FORNARELLI Evan
+
 BERCIER Ethan
