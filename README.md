@@ -7,7 +7,9 @@ Extrait du code du fichier CrashController.php
 Ce controller permet de fusionner deux fichiers .csv en créant un nouveau fichier regroupant toutes les données des deux fichiers.
 Le code ci-dessus permet de lire les fichiers csv.
 
+https://user-images.githubusercontent.com/78152375/139742904-cd568636-8a9c-4555-870b-506fec277b93.PNG
 
+Le code ci-dessus permet de créer le fichier contenant toutes les données récupérées sur les deux fichiers csv.
 
 
 
