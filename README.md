@@ -13,7 +13,7 @@ Le code ci-dessus permet de créer le fichier contenant toutes les données réc
 
 
 
-Personnes du groupe :
+Personnes du groupe Smash :
 
 DE SOUSA Océane
 
